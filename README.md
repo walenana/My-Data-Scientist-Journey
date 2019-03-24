@@ -1,4 +1,4 @@
-# myDSjourney
+# My Data Scientist Journey
 Follow me on my journey to becoming an expert data scientist
 
 about 4 months ago since I embarked on this journey, there have been many challenges. 
